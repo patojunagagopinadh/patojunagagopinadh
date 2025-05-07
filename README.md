@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Patoju Naga Gopi Nadh
 
-<!--
-**patojunagagopinadh/patojunagagopinadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics and Communication Engineering (ECE), Class of 2025  
+🏢 Intern at Surya Tech Solutions | IoT + Embedded Systems Intern at Navikshaa  
+📍 Based in Guntur, Andhra Pradesh, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- **Farm2Fork - Blockchain Supply Chain**  
+  Built with Hyperledger Composer to track agri-products with full transparency.
+
+- **Shuffled Camera Feed Puzzle App**  
+  Real-time Android game built using Kivy with live video feed control.
+
+- **IoT Air Pollution Monitoring**  
+  Used Raspberry Pi and sensors to monitor air quality and push data to cloud.
+
+- **Smart Home Automation System**  
+  Arduino-driven automation for smart appliance control.
+
+- **Solar Energy Awareness Project**  
+  Led a community project for promoting electricity conservation using solar tech.
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: C, Python, Java (OOP)
+- **Hardware**: VHDL, VLSI, Arduino, Raspberry Pi
+- **Software**: MATLAB, Vivado, TINA, Mentor Graphics, TASM
+- **Other**: Git, MS Office, Google Docs
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/patoju-nagagopinadh-9b4545243)
+- [GitHub](https://github.com/patojunagagopinadh)
+- 📧 patojunagagopinadh@gmail.com
